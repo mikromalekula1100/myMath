@@ -1,5 +1,8 @@
-package mymath
+// myMath - пакет с единственной функцией сложения двух чисел
 
+package myMath
+
+// Add принимает на вход два числа типа int и возвращает результат их сложения, лол
 func Add(a, b int) int {
 	return a + b
 }
